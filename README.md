@@ -50,6 +50,7 @@ Pada direktori tersebut, buatlah halaman sederhana untuk memperkenalkan diri. Se
 
 Setelah selesai, harap membuat `pull request` dari branch antum antunna ke branch main, serta tambahkan hanya mentor sebagai reviewer (satu reviewer saja).
 
-Catatan: Branch main memiliki pembatasan: tidak diperkenankan melakukan merge langsung ke branch main.
+Catatan: Branch `main` memiliki pembatasan<br>
+_Tidak diperkenankan melakukan merge langsung ke branch `main`._
 
 Live session: TBD.
