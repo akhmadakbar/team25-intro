@@ -39,4 +39,17 @@ Frontend Engineer adalah seorang pengembang web yang bertanggung jawab atas tamp
 
 ## Latihan
 
-Live session: TBD
+Setiap peserta diharapkan untuk melakukan clone repository ini ke laptop atau PC masing-masing.
+
+Selanjutnya, silakan buat branch masing-masing dengan ketentuan penamaan sebagai berikut:
+```feature/[username_github]```
+
+Direktori nextjs-fundamental merupakan [proyek NextJS](https://github.com/NextJS-Sandbox-HSI/team25-intro/tree/main/nextjs-fundamental) yang dibuat menggunakan perintah [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app). Silakan buat direktori baru di dalam direktori `src/app` dengan nama sesuai username GitHub antum antunna.
+
+Pada direktori tersebut, buatlah halaman sederhana untuk memperkenalkan diri. Sebagai referensi, antum antunna dapat melihat contoh halaman milik [mentor](https://github.com/NextJS-Sandbox-HSI/team25-intro/tree/main/nextjs-fundamental/src/app/dandyar).
+
+Setelah selesai, harap membuat pull request dari branch antum antunna ke branch main, serta tambahkan hanya mentor sebagai reviewer (satu reviewer saja).
+
+Catatan: Branch main memiliki pembatasan: tidak diperkenankan melakukan merge langsung ke branch main.
+
+Live session: TBD.
