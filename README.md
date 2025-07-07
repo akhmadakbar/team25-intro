@@ -46,7 +46,7 @@ Selanjutnya, silakan buat branch masing-masing dengan ketentuan penamaan sebagai
 
 Direktori nextjs-fundamental merupakan [proyek NextJS](https://github.com/NextJS-Sandbox-HSI/team25-intro/tree/main/nextjs-fundamental) yang dibuat menggunakan perintah [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app). Silakan buat direktori baru di dalam direktori `src/app` dengan nama sesuai username GitHub antum antunna.
 
-Pada direktori tersebut, buatlah halaman sederhana untuk memperkenalkan diri. Sebagai referensi, antum antunna dapat melihat contoh halaman milik [mentor](https://github.com/NextJS-Sandbox-HSI/team25-intro/tree/main/nextjs-fundamental/src/app/dandyar).
+Pada direktori tersebut, buatlah halaman untuk memperkenalkan diri. Style dan layout bebas, silakan buat sekreatif mungkin. Sebagai referensi, antum antunna dapat melihat contoh halaman milik [mentor](https://github.com/NextJS-Sandbox-HSI/team25-intro/tree/main/nextjs-fundamental/src/app/dandyar).
 
 Setelah selesai, harap membuat `pull request` dari branch antum antunna ke branch main, serta tambahkan hanya mentor sebagai reviewer (satu reviewer saja).
 
