@@ -15,7 +15,7 @@ export default function Dandyar() {
                 Hi, I'm from Bandung, Indonesia. On a daily basis, I actively engage in developer advocacy, perform code reviews, and facilitate Scrum practices as a Scrum Master. Most of my daily work involves coding in Java.
             </p>
 
-            <p className="text-base md:text-lg leading-relaxed text-gray-200 mb-5">I am passionate about technology, motorcycles, literature, computers, and books. I am also continuously seeking opportunities to learn, collaborate, and contribute to impactful technology solutions.</p>
+            <p className="text-base md:text-lg leading-relaxed text-gray-200 mb-5">I am passionate about badminton, motorcycles, literature, computers, and books. I am also continuously seeking opportunities to learn, collaborate, and contribute to impactful technology solutions.</p>
 
             <div className="flex justify-center items-center space-x-6">
                 <a href="https://www.linkedin.com/in/dandyalfaz/" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-white transition-transform duration-300 transform hover:scale-110">
