@@ -1,6 +1,6 @@
 import styles from './sandimar.module.css'
 
-export default function Dandyar() {
+export default function Sandimar() {
   return (
     <div className={`${styles.container} min-h-screen flex items-center justify-center`}>
         <div className="w-full max-w-4xl mx-auto bg-black bg-opacity-25 backdrop-blur-md rounded-2xl shadow-2xl p-8 md:p-12 text-center">
